@@ -1,2 +1,1 @@
-# Repositori_Joel
-Aquest és el repositori de Joel Riera.
+Aquest és un projecte inicial d'exemple per practicar amb Git i GitHub.
